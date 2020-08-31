@@ -1,0 +1,32 @@
+#header-nav{
+    background-color: darkgrey;
+    border: black 3px solid;
+    height: 90px;
+}
+h2{
+    text-align: center;
+}
+h3{
+ text-align: center;
+}
+.cont{
+     margin: 20px;
+     background-color: darkgray;
+    padding: 15px;
+    
+}
+
+.navbar-brand{
+    padding-top: 25px;
+}
+
+.navbar-header h1{
+    color: black;
+    font: 1.5em;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+
